@@ -1,4 +1,4 @@
-<h1 align="center">What's up?👋, I'm Ayomide Olumide-Attah</h1>
+<h1 align="center">What's up?👋 I'm Ayomide Olumide-Attah</h1>
 <h3 align="center">A Python Developer/CS sophomore from Lagos, Nigeria.</h3>
 
 - 🔭 I’m currently working on **GameTheoryLab, The Game of Life Simulation and PyMaze.**
