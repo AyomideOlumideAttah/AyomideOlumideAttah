@@ -1,13 +1,11 @@
 <h1 align="center">What's up?👋 I'm Ayomide Olumide-Attah</h1>
 <h3 align="center">A Python Developer/CS sophomore from Lagos, Nigeria.</h3>
 
-- 🔭 I’m working on **GameTheoryLab, The Game of Life Simulation and PyMaze.**
-
 - 🌱 I’m currently studying **Mathematics and Computer Science at Fisk University.**
   
 - 💡 I'm interested in **Data Science, AI/ML,** and **Quantum Computing**.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ofETQPteGlqV0_J8Mbvbl_CUqXFQENBi/view?usp=drive_link](https://drive.google.com/file/d/1ofETQPteGlqV0_J8Mbvbl_CUqXFQENBi/view?usp=drive_link)
+- 📄 Know about my experiences at [https://drive.google.com/file/d/1ofETQPteGlqV0_J8Mbvbl_CUqXFQENBi/view?usp=drive_link](https://drive.google.com/file/d/1ofETQPteGlqV0_J8Mbvbl_CUqXFQENBi/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
