@@ -5,7 +5,7 @@
   
 - 💡 I'm interested in **Data Science, AI/ML,** and **Quantum Computing**.
 
-- 📄 Know about my experiences at [https://drive.google.com/file/d/1ofETQPteGlqV0_J8Mbvbl_CUqXFQENBi/view?usp=drive_link](https://drive.google.com/file/d/1ofETQPteGlqV0_J8Mbvbl_CUqXFQENBi/view?usp=drive_link)
+- 📄 Know about my experiences at [https://drive.google.com/file/d/1fsBx7qb4V39-OfYoyhKrGF7jI9kKrR3g/view?usp=sharing](https://drive.google.com/file/d/1fsBx7qb4V39-OfYoyhKrGF7jI9kKrR3g/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
