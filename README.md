@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
   <a href="https://linkedin.com/in/ayomide-olumide-attah" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue" height="25" />
   </a>
@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=AyomideOlumideAttah" />
-</div>
+</div> -->
 
 <h1 align="center">Ayomide Olumide-Attah</h1>
 
