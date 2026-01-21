@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 
 ###
 
@@ -26,7 +23,7 @@
 
 ###
 
-<p align="left">My name is Ayomide Olumide-Attah, and I'm an aspiring researcher, programmer, and mathematician.<br><br>- 📚 My interests span Data Science, Machine Learning, AI, and Quantum Computing.<br><br>- 🔭 I've done research in Shor's algorithm at ThinkingBeyond Education, built an AI-powered stock prediction model at AI4ALL, and performed extensive data analysis on NYC car crashes during NSDC's Explorer Transportation Data Science Project (TDSP).<br><br>- ⚡ My biggest project is GameTheoryLab, a Python-based simulation library that brings foundational concepts of Game Theory to life.<br><br>- 📄 Find out what else I've been up to at:[https://drive.google.com/file/d/1XVsOAp60Whl6gIpS22RsjCetpAz-tpnu/view?usp=drive_link](https://drive.google.com/file/d/1XVsOAp60Whl6gIpS22RsjCetpAz-tpnu/view?usp=drive_link)</p>
+<p align="left">My name is **Ayomide Olumide-Attah**, and I'm an aspiring **researcher**, **programmer**, and **mathematician**.<br><br>- 📚 My interests span **Data Science**, **Machine Learning**, **AI**, and **Quantum Computing**.<br><br>- 🔭 I've done research in **Shor's algorithm** at **ThinkingBeyond Education**, built an **AI-powered** stock prediction model at **AI4ALL**, and performed extensive data analysis on NYC car crashes during **NSDC's Explorer** Transportation Data Science Project (TDSP).<br><br>- ⚡ My biggest project is **GameTheoryLab**, a Python-based simulation library that brings foundational concepts of Game Theory to life.<br><br>- 📄 Find out what else I've been up to at: [https://drive.google.com/file/d/1XVsOAp60Whl6gIpS22RsjCetpAz-tpnu/view?usp=drive_link](https://drive.google.com/file/d/1XVsOAp60Whl6gIpS22RsjCetpAz-tpnu/view?usp=drive_link) </p>
 
 ###
 
