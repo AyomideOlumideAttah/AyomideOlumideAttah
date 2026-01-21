@@ -1,12 +1,10 @@
 <div align="center">
   <a href="https://linkedin.com/in/ayomide-olumide-attah" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue" height="25" />
   </a>
-  <a href="https://www.youtube.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="25" />
-  </a>
-  <a href="https://twitter.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
+  
+  <a href="apps.joinhandshake.com/profiles/ayomideolumideattah" target="_blank">
+    <img src="https://img.shields.io/badge/HandShake-green" height="25" />
   </a>
 </div>
 
