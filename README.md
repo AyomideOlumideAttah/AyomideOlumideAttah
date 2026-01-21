@@ -34,16 +34,16 @@ I enjoy translating abstract mathematical ideas into executable simulations, res
 
 ## Technical Skills
 
-**Programming Languages**
+**Programming Languages:**
 Python · Java · JavaScript
 
-**Scientific & Data Libraries**
-NumPy · Pandas · scikit-learn
+**Scientific & Data Libraries:**
+NumPy · Pandas · Scikit-Learn
 
-**Web & Automation**
+**Web & Automation:**
 Flask · Selenium · HTML · CSS
 
-**Quantum Computing SDKs**
+**Quantum Computing SDKs:**
 Qiskit · Classiq · QuantumRings · qBraid
 
 ---
