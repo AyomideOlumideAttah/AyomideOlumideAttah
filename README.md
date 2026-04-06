@@ -50,6 +50,7 @@ Qiskit · Classiq · QuantumRings · qBraid
 
 ## Research Interests
 
+* Pure and Applied Math
 * Machine Learning
 * Artificial Intelligence
 * Quantum Algorithms
